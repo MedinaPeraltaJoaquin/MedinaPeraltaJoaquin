@@ -10,7 +10,6 @@
 
 - ⚙️ Interesado en el **Cómputo Científico** y la aplicación de heurísticas avanzadas.
 - ⚡️ Desarrollo **back-end** con experiencia en sistemas de control de versiones **Git (GitLab)**.
-- 🏙 Buscando oportunidades de colaboración en el sector de **Tecnología y Energía**.
 - 🌱 Aprendiendo y explorando nuevas técnicas de optimización y lenguajes de alto rendimiento como Rust.
 - 💻 **Proyectos destacados:** Implementación de heurísticas para problemas TSP y k-MST.
 <p align="left">
